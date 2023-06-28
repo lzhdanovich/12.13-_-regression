@@ -1,0 +1,50 @@
+"Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
+16951b3b-17ac-40be-bba7-7cfc68894c37,Rules 4,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+232cecdc-cd82-45f9-9195-73a239b3999e,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+255360bc-0332-4331-acc8-bf01d5eafb93,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+265600d0-a0e2-4e0f-ad0c-48ea3bf5dba8,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+2a48b3f1-e3e7-4429-8e6c-f11256488a06,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+31c431cd-084b-4d41-ae4f-e8f52e78444c,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+3785eb22-3e3e-49d4-a7e2-d0b5fc3ff23f,Rules 1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+38a96ce3-38c7-45e2-a1cf-dd8d73d3fcb6,Rules 1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+3b54491e-c3c3-4eed-ad62-7c0079e6c451,Rules 3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+3e6634ca-9c7b-44d6-9d4c-ca472a01882b,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+4f602d33-8d8a-479b-89f7-b42c86b4c4ab,Rules 4,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+53696dc0-d62d-443c-9b3c-9d52305b6b03,Rules 3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+546139bb-78ee-434e-957f-ad7dd1f00847,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+5a61ed2e-59b8-41d4-9c04-81a15532c5f5,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+5bd474b0-4e7d-4838-b4ae-3d0a875691f4,Rules 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+5f6a7f5a-6521-4637-84f5-3e87f81dc458,Rules 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+6bd74b02-9376-44fc-8572-61f4559f235b,Rules 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+74664016-83b7-4460-b2bf-2089d7049da0,Rules 1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+75d82df4-0eba-4802-99f9-44f671b4722c,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+7f737305-cac9-4369-b799-b43dffc30683,Rules 4,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+7fccfcba-9511-4511-8a67-e952e4c266d4,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+86517c27-0e46-4372-abd2-5442b1ead5f8,Rules 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+88a8400f-6001-4bc3-8894-0d25537777c6,Rules 3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+8cb4b961-454e-4896-85e8-bb74d8c46c07,Rules 1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+9297cff3-889f-4b1d-b28c-6aa619da1f67,Rules 3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+9725cd4c-d196-4b62-ace4-2b2a7773729f,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+9d028d11-c9e5-41f5-ba73-407503fd79a5,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+a1524a6a-ba62-4381-8ab0-6b34b5ad3685,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+a3b96f81-5559-4f6c-a895-c505513801e5,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+aae4730e-fefa-4aca-ac1d-5f61d838c642,Rules 4,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+ac6eff50-9ddd-4f8f-aa57-46de5c6ca5ff,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+b1f34b41-64fc-46b1-99ec-33e5d06f29ab,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+b37296cf-b0a9-48e9-87ee-1186023ed773,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+b983754b-b0dd-4b99-a906-4aa43449ae4e,Price rule 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+d449cd11-be4e-49a6-b466-d58a92a2169a,Rules 4,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+d79366b8-4ee6-4ccd-bfd2-5a5853a2fac3,Rules 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+dc9782d3-e257-49d5-9e49-72de4dc94e1c,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+ddccb607-4f5d-46c6-abbb-50b0cf1578c7,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+e1e699a1-9e69-4300-8300-efe92fa57515,Rules 4,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+e849a0e2-ca53-42a9-9e02-2da59feedc89,Rules 3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+e9d33f38-322b-458a-ab7d-6951dba70aec,Rules 3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+e9fb43eb-26d5-4b89-b485-5f4409a3dec9,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+ea0c1ae5-5ea2-457a-b79d-728232e01f42,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+ea1f6659-bbeb-461c-8401-0c7b97f0c630,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+ecdd388b-c703-4c88-ace2-80af7425dd68,Rules 1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+ee4d7937-3c27-45e6-8fb8-f036f3eed4e6,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+f2bd6cd5-3a09-4c89-9213-d9eb66c717de,Rules 1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+f71eca3e-12bb-4b0e-95d2-d4669cb34153,Rules 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+fbefbdd4-cbf8-4ed2-a943-8ac7c7d62ed1,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
